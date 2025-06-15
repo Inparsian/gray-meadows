@@ -1,0 +1,6 @@
+[submodule "gray-meadows-dm"]
+	path = gray-meadows-dm
+	url = https://github.com/Inparsian/gray-meadows-dm
+[submodule "gray-meadows-shell"]
+	path = gray-meadows-shell
+	url = https://github.com/Inparsian/gray-meadows-shell
