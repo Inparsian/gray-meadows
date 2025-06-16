@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/gray-meadows-shell/target/cxxbridge/rust"
+                "${workspaceFolder}/gray-meadows-shell/target/cxxbridge/rust",
+                "${workspaceFolder}/gray-meadows-shell/src/ffi/ext"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
