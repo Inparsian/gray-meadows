@@ -5,8 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/gray-meadows-shell/target/cxxbridge/rust",
-                "${workspaceFolder}/gray-meadows-shell/src/ffi/ext/qalculate",
-                "${workspaceFolder}/gray-meadows-shell/src/ffi/ext/astalwp",
+                "${workspaceFolder}/gray-meadows-shell/src/ffi/libqalculate",
+                "${workspaceFolder}/gray-meadows-shell/src/ffi/astalwp",
                 "/usr/include/glib-2.0"
             ],
             "defines": [],
