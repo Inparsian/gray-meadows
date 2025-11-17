@@ -1,14 +1,12 @@
 ![image](https://github.com/user-attachments/assets/8a0d11cd-6fac-4d7c-832c-12d9f463d28e)
 
-A complete rewrite of my personal desktop suite, with a Wayland desktop shell, and soon a greetd-based greeter. Originally in TypeScript + JSX, now in Rust and a bit of C++ (for thin FFI shims).
-
-This will probably look like a mess for a while, this is more of a personal project for me to get back into Rust development, but I'll polish things up as I go.
+A complete rewrite of my personal desktop suite, with a Wayland desktop shell, ~~and soon a greetd-based greeter~~ (see below). Originally in TypeScript + JSX, now in Rust and a bit of C++ (for thin FFI shims).
 
 ## Why the name "Gray Meadows"?
 grayscale color scheme, first screenshot of the agsv2 version used a foggy forest wallpaper. was too lazy to come up with a better name
 
 ## When will it be ready?
-I have no ETA right now, but probably within a few months. This isn't a full-time project at the moment, so progress may be slow at times. Also, Rust is a fairly new language for me, so I'm still yet to get used to it's borrow checker and other quirks (I come from TypeScript lol).
+There's no ETA right now, my initial guesstimation of within a few months was way off because I have not foreseen myself taking a break from this project for a hot minute. However, I recently started using gray-meadows-shell as a daily driver, so progress there should resume soon-ish. I have no plans to start work on the greeter in the foreseeable future.
 
 Contributions are welcome!
 
