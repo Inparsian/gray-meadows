@@ -10,6 +10,9 @@ There's no ETA right now, my initial guesstimation of within a few months was wa
 
 Contributions are welcome!
 
+## Recommended icon theme
+Since Gray Meadows is intended to have a monochrome/grayscale aesthetic, I recommend you use an icon theme that matches it. My personal favorite is [Besgnulinux Monochrome](https://www.gnome-look.org/p/2151189/), but any monochrome or grayscale icon theme should work well.
+
 ## Building
 There's no exhaustive list of dependencies at the moment, as this project is still in it's infancy. However, I can say with confidence that you will need the following:
 
