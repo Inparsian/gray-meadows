@@ -1,3 +1,5 @@
+⚠️ This is the legacy repository for Gray Meadows as only the shell component is being actively developed now, the git submodules will no longer be updated. Please visit the [gray-meadows-shell](https://github.com/Inparsian/gray-meadows-shell) repository instead.
+
 ![image](https://github.com/user-attachments/assets/8a0d11cd-6fac-4d7c-832c-12d9f463d28e)
 
 A complete rewrite of my personal desktop suite, with a Wayland desktop shell, ~~and soon a greetd-based greeter~~ (see below). Originally in TypeScript + JSX, now in Rust and a bit of C++ (for thin FFI shims).
